@@ -26,6 +26,6 @@ Este é um projeto fictício que consiste na criação de um relatório em dashb
 
 ---
 
-![slide3](result/slide3_preview.png)
+![slide3](result/slide3.png)
 
 <p> Nesta solução, contemplo as tres categorias de temperatura, como um indicador. Temp Max, Temp Media e Temp Min. Além disso, exibo um grafico de linha para mostrar a tendência do consumo de cerveja por dia, relacionando-os com os meses do ano. Mostrando como ao longo do tempo, o grafico muda. </p>
