@@ -4,15 +4,15 @@
 
 # CASE CERVEJARIA POR CRISTIANE RODRIGUES
 
-## Sobre o Projeto
+### Sobre o Projeto
 
 Este é um projeto fictício que consiste na criação de um relatório em dashboard sobre o consumo de cerveja e a relação entre ela e as chuvas, durante o período de um ano..
 
-## Problema
+### Problema
 
 ![Imagem](img/01.jpg)
 
-## Solução
+### Solução
 
 ![slide1](result/slide1_preview.png)
 
